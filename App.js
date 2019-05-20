@@ -6,7 +6,6 @@ class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>HOla desde el pryecto principal</Text>
         <Login />
       </View>
     );
